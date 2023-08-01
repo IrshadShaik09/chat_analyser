@@ -4,7 +4,7 @@ seaborn
 pandas
 numpy
 urlextract
-re
+
 emoji
 wordcloud
 collections
