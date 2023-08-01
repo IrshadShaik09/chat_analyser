@@ -6,4 +6,3 @@ numpy
 urlextract
 emoji
 wordcloud
-collections
